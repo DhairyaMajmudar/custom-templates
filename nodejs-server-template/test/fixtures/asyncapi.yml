@@ -1,0 +1,15 @@
+asyncapi: 2.6.0
+
+info:
+  title: Temperature Service
+  version: 1.0.0
+  description: This service is in charge of processing all the events related to temperature.
+
+servers:
+  dev:
+    url: api.example.com
+    protocol: http
+
+channels:
+  temperature:
+    description: Channel for temperature events

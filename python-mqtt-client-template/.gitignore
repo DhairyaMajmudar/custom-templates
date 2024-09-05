@@ -1,0 +1,8 @@
+node_modules
+
+__transpiled
+__pycache__
+
+package-lock.json
+
+test/project/client.py
