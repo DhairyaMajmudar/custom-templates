@@ -1,9 +1,9 @@
 asyncapi: 2.6.0
 
 info:
-  title: Temperature Service
+  title: Nodejs Backend Server
   version: 1.0.0
-  description: This service is in charge of processing all the events related to temperature.
+  description: This is a Nodejs backend server template
 
 servers:
   dev:
@@ -12,4 +12,4 @@ servers:
 
 channels:
   temperature:
-    description: Channel for temperature events
+    description: default channel
