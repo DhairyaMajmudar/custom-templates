@@ -6,7 +6,7 @@ Folder contains the code for the custom template for generating code snippet for
 
 This is simple nodejs backend server. This template prints the sentence **AsyncAPI is Cool!!!** on the page at localhost:8000
 
-## How to use
+## How to Use
 
 1. Clone the repo in local machine.
 2. Hit the command `npm i` to install the dependencies.
