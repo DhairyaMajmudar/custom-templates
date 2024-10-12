@@ -1,8 +1,6 @@
-//1
 import { File, Text } from "@asyncapi/generator-react-sdk";
-//2
-export default function ({ asyncapi }) {
-    //3
+
+export default function () {
     return (
         <File name="client.js">
             <Text>{`const express = require('express');

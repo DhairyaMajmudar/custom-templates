@@ -7,7 +7,7 @@ info:
 
 servers:
   dev:
-    url: api.example.com
+    url: http://localhost:8000  
     protocol: http
 
 channels:
